@@ -1,0 +1,9 @@
+// Labload 1.1 11.12.2015
+
+1. UI Camera shake fix
+2. Removed bottom text
+3. New header text
+4. Changed loose and win texts and icons
+5. Loading time changed from 25 to 15 seconds
+6. Random level each time (+2 levels)
+7. News tyle of progress circle

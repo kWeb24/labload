@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\HangoverGameJam\TheGoal\TheGoal\Assets\Scripts\Global\drawOrbit.cs">
+    <Files>
+      <File FileName="..\..\HangoverGameJam\TheGoal\TheGoal\Assets\Scripts\Global\rotator.cs" Line="10" Column="2" />
+      <File FileName="..\..\HangoverGameJam\TheGoal\TheGoal\Assets\Scripts\Global\drawOrbit.cs" Line="24" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
