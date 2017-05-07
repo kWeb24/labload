@@ -5,6 +5,7 @@
 **[Play on Itch.io](https://kweb24.itch.io/labload)**
 
 LabLoadOrigin is version commited as game jam entry
+
 LabLoadFixed is updated version with additional levels
 
 # License
